@@ -1,2 +1,2 @@
 # JS-Programming
-## Freecodecamp Course 
+## freeCodeCamp Course 
